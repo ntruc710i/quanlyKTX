@@ -1,0 +1,28 @@
+Facebook: https://www.facebook.com/anhdvblog/
+Website: https://anh-dv.com và https://anhdvboot.com
+Youtube: https://youtube.com/c/anhdvblog
+
+Lưu ý: Sử dụng tính năng 6. Sao chép gói mở rộng để copy tự động. Nếu Copy thủ công thì đổi tên như dưới
+
+Đổi tên như dưới đây và Copy vào thư mục ISO
+-------------
+- archlinux					(Arch Linux)
+- antergos					(AntergOS)
+- backbox					(Back Box)
+- boot-repair-disk-64bit			(Boot Repair Disk)
+- centos					(CentOS)
+- debian					(Debian)
+- deepin					(Deepin)
+- Fedora					(fedora - Phải copy vào phân vùng ẩn USB-BOOT)
+- gparted					(Gparted)
+- linuxmint					(Linux Mint)
+- manjaro					(Manjaro)
+- nst						(Network Security Toolkit)
+- openSUSE					(OpenSuse)
+- Parrot					(Parrot)
+- pmagic					(Parted Magic)
+- ubuntu 					(Ubuntu Desktop 64 bit)
+- slackware					(Slackware Live ISO)
+- sysrescd					(System Rescue CD)
+- wifislax 					(Wifi Slax)
+-------------------------------

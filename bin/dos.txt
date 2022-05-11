@@ -1,0 +1,20 @@
+Facebook: https://www.facebook.com/anhdvblog/
+Website: https://anh-dv.com và https://anhdvboot.com
+Youtube: https://youtube.com/c/anhdvblog
+
+Lưu ý: Sử dụng tính năng 6. Sao chép gói mở rộng của 1 click
+Để copy tự động, nếu Copy thủ công thì đổi tên như dưới
+
+Đổi tên như dưới đây và Copy vào thư mục ISO
+-------------
+- ati20			(Acronis TrueImage 2020)
+- ati19			(Acronis TrueImage 2019)
+- ati17			(Acronis TrueImage 2017)
+- ati14			(Acronis TrueImage 2014)
+- add12			(Acronis Disk Director 12)
+- abren11		(Acronis Backup)
+- eset			(Copy folder Casper trong đĩa ESET vào folder ISO này, đổi tên thành ESET)
+- avira			(Avira System Rescue)
+- krd			(Kaspersky Rescue 2018)
+- avg			(AVG Rescue CD)
+-------------------------------

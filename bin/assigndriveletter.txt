@@ -1,0 +1,3 @@
+list volume
+select volume %volume%
+assign letter=%letter%
